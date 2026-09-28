@@ -1,0 +1,31 @@
+{
+    "remove": [
+        "resources/views/home.php",
+        "resources/views/contact.php",
+        "resources/views/posts",
+        "resources/views/auth",
+        "resources/views/errors",
+        "resources/views/layouts",
+        "tests/Feature/ApiTokenAuthTest.php",
+        "tests/Feature/AuthTest.php",
+        "tests/Feature/AuthorizationTest.php",
+        "tests/Feature/ContactTest.php",
+        "tests/Feature/CorsTest.php",
+        "tests/Feature/DebugToolbarTest.php",
+        "tests/Feature/EmailVerificationTest.php",
+        "tests/Feature/ErrorHandlingTest.php",
+        "tests/Feature/HomeTest.php",
+        "tests/Feature/JsonResourceTest.php",
+        "tests/Feature/LocalizationTest.php",
+        "tests/Feature/OAuthTest.php",
+        "tests/Feature/PasswordResetTest.php",
+        "tests/Feature/PostsTest.php",
+        "tests/Feature/RememberMeTest.php",
+        "tests/Feature/SecurityHeadersTest.php",
+        "tests/Feature/TwoFactorTest.php",
+        "tests/Feature/ThemeInstallationTest.php",
+        "tests/Security/AccessControlTest.php",
+        "tests/Security/RequestForgeryTest.php",
+        "tests/Security/SessionTest.php"
+    ]
+}
